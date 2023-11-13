@@ -11,3 +11,6 @@ It might be a wonder what the most common word counts are for the given review. 
 
 I wanted to see what the most common word was. However the most common word was I and the. I did not care about these words, so I needed to remove these words. The way I did this was by using the pre built stopwords collection and removing them. I then ran a counter and counted up these words and found the most common word. 
 ![Screenshot 2023-11-09 155046](https://github.com/ChilledNeon/CS39AA-Project/assets/112008738/ee0ca462-045e-4876-becb-0e4396612bb6)
+
+I don't know if I need this here or not, or what the requirements for the kaggle notebook are, but just incase
+https://www.kaggle.com/code/jonathandye21/amazon-reviews-llm/edit 
